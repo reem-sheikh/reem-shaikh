@@ -6,7 +6,7 @@
 ### About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: The [The Artsy Shop](https://www.behance.net/theartsyshop) 
-![](K1.JPG)
+![](./K1.JPG)
 
 and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal. I would take custom fine-art and digital art commissions during my undergrad, which I've now converted to a passive income source. 
 
