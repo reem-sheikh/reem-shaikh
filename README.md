@@ -4,12 +4,13 @@
 <p align="left"> <a href="https://twitter.com/reemshakes" target="blank"><img src="https://img.shields.io/twitter/follow/reemshakes?logo=twitter&style=for-the-badge" alt="reemshakes" /></a> </p>
 
 ### About me ❤️
-Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: The [The Artsy Shop](https://www.behance.net/theartsyshop) and [Crazy Ket Lady](https://www.behance.net/crazyketlady). You'll find my work on behance and Artpal.
+Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: The [The Artsy Shop](https://www.behance.net/theartsyshop) and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal.
 
 When I'm not arting, you'll find me slamming on my keyboard building websites and web apps, what can I say it's kind of like my guilty pleasure. I started my coding journey almost exactly a year ago and now I'm doing [freelance projects](https://elevateagency.netlify.app/) on the side for mutuals, helping out the tech community on [Quora](https://www.quora.com/profile/Ruby-2539) and posting regular tech tutorials on [medium](https://medium.com/@reemshakes). 
 
-My hobbies allign towards creative writing. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). 
+My hobbies align towards creative writing. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). 
 
+I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia where I worked as an influencer representing my college. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
