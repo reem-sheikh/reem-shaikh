@@ -18,7 +18,8 @@ My hobbies align towards creative writing, I've been writing for around 3-4 year
 I've completed my BCA from Hinduja college and I'm currently pursuing my masters in computer applications & I'm open to full time work in the tech niche. Here's a link to my <a href="mailto:business.reemshaikh@gmail.com">email address</a> 
 
 Stay Safe Shweets! 
-Xo Reem <3
+<br>
+XO Reem <3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
