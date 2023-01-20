@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Reem Shaikh</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="left">Hi 👋, I'm Reem Shaikh</h1>
+<h3 align="left">Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/reemshakes" target="blank"><img src="https://img.shields.io/twitter/follow/reemshakes?logo=twitter&style=for-the-badge" alt="reemshakes" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/reemshakes" target="blank"><img src="https://img.shields.io/twitter/follow/reemshakes?logo=twitter&style=for-the-badge" alt="reemshakes" /></a> </p>
+ -->
 ### About me ❤️
 Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: The [The Artsy Shop](https://www.behance.net/theartsyshop) and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal. I would take custom fine-art and digital art commissions during my undergrad, which I've now converted to a passive income source. 
 
