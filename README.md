@@ -15,7 +15,7 @@ During my undergrad, I've served as the PR director for the rotaract club of my 
 
 I guess it was a little around that time I [fell in love with the process of coding](https://medium.com/@reemshakes/how-i-fell-in-love-with-coding-cf07f4aa7176).
 
-My hobbies align towards creative writing, I've been writing for around 3-4 years now. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia. I also build a custom [soccer based management system](https://github.com/reem-shaikh/c-project) as a hobby project with file handling in CPP
+My hobbies align towards creative writing, I've been writing for around 3-4 years now. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia. Since I was so passionate about soccer I ended up building a custom [soccer based management system](https://github.com/reem-shaikh/c-project) as a hobby project with file handling in CPP during my first year. 
 
 I've completed my BCA from Hinduja college and I'm currently pursuing my masters in computer applications & I'm open to full time work in the tech niche.
 <br>
