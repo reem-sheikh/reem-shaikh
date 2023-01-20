@@ -26,9 +26,6 @@ My hobbies align towards creative writing, I've been writing for around 3-4 year
 
 I've completed my BCA from Hinduja college and I'm currently pursuing my masters in computer applications & I'm open to full time work in the tech niche.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<br>
-
 Stay Safe Shweets! 
 <br>
 XO Reem <3
@@ -52,3 +49,8 @@ XO Reem <3
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reem-shaikh&show_icons=true&locale=en&layout=compact" alt="reem-shaikh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reem-shaikh&show_icons=true&locale=en" alt="reem-shaikh" /></p>
+
+
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
+<br>
