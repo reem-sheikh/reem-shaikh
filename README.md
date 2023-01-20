@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Reem Shaikh</h1>
-<h3 align="left">Frontend Developer</h3>
+<h3 align="left">Writer, Frontend Developer, Artist</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/reemshakes" target="blank"><img src="https://img.shields.io/twitter/follow/reemshakes?logo=twitter&style=for-the-badge" alt="reemshakes" /></a> </p>
  -->
