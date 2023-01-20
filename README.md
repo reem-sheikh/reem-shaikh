@@ -4,22 +4,15 @@
 <!-- <p align="left"> <a href="https://twitter.com/reemshakes" target="blank"><img src="https://img.shields.io/twitter/follow/reemshakes?logo=twitter&style=for-the-badge" alt="reemshakes" /></a> </p>
  -->
 ### About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: [The Artsy Shop](https://www.behance.net/theartsyshop) 
-<br>
-![k1](https://user-images.githubusercontent.com/68152116/213682166-bd10bd76-698e-4d7e-bf75-07184604ea5e.JPG)
-
-and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal.
-![k2](https://user-images.githubusercontent.com/68152116/213683999-c8f9c837-48a9-4904-8026-8fdf20951877.JPG)
-
-I would take custom fine-art and digital art commissions during my undergrad, which I've now converted to a passive income source. 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: The [The Artsy Shop](https://www.behance.net/theartsyshop) and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal. I would take custom fine-art and digital art commissions during my undergrad, which I've now converted to a passive income source. 
 
 When I'm not arting, you'll find me slamming on my keyboard building websites and web apps, what can I say it's kind of like my guilty pleasure. I started my coding journey almost exactly a year ago and now I'm doing [freelance projects](https://elevateagency.netlify.app/) on the side for mutuals, helping out the tech community on [Quora](https://www.quora.com/profile/Ruby-2539) and posting regular tech tutorials on [medium](https://medium.com/@reemshakes). 
 
 I enjoy using creative outlets to express myself, and I have the flexibility to change my tone and style depending on the needs of the project. Being an empath and a phychology enthusiast, I'm able to deeply comprehend client's perspective and meet their needs. I love me a little challenge every now and then, it keeps me on my toes! 
 
 I love indulging in community service and making new friends!
-During my undergrad, I've served as the PR director for the rotaract club of my college, which inspired me to co-found my very own startup, where we worked with startup event management firms to provide PR solutions. But due to Covid we had to shut it down, that's when I started learning web development and building websites from scratch. You can check my coding progress at [70daysofcode](https://github.com/reem-shaikh/70DaysOfCode). I would even document my journey at [Twitter](https://twitter.com/reemshakes) where I'm a part of a couple tech communities. I would mainly use this platform to network with other passionate coders. 
+During my undergrad, I've served as the PR director for the rotaract club of my college, which inspired me to co-found my very own startup, where we worked with startup event management firms to provide PR solutions. But due to Covid we had to shut it down, that's when I started learning web development and building websites from scratch. You can check my coding progress at [70 Days Of Code](https://github.com/reem-shaikh/70DaysOfCode). I would even document my journey at [Twitter](https://twitter.com/reemshakes) where I'm a part of a couple tech communities. I would mainly use this platform to network with other passionate coders. 
 
 > Here is a list of some of my projects:
 - [Movie App](https://angry-villani-ca483a.netlify.app/) - React JS, material UI, axios, redux, omdb-api 
