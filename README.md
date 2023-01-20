@@ -5,7 +5,7 @@
  -->
 ### About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: The [The Artsy Shop](https://www.behance.net/theartsyshop) 
+Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: [The Artsy Shop](https://www.behance.net/theartsyshop) 
 <br>
 ![k1](https://user-images.githubusercontent.com/68152116/213682166-bd10bd76-698e-4d7e-bf75-07184604ea5e.JPG)
 
