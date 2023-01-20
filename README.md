@@ -16,7 +16,8 @@ I've worked as the PR director for the rotaract club of my college, which inspir
 My hobbies align towards creative writing, I've been writing for around 3-4 years now. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia. 
 
 I've completed my BCA from Hinduja college and I'm currently pursuing my masters in computer applications & I'm open to full time work in the tech niche.
-- 📫: **business.reemshaikh@gmail.com**
+<br>
+📫: **business.reemshaikh@gmail.com**
 
 Stay Safe Shweets! 
 <br>
