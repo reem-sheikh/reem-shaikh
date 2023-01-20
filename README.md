@@ -13,8 +13,10 @@ I enjoy using creative outlets to express myself, and I have the flexibility to 
 I love indulging in community service and making new friends!
 I've worked as the PR director for the rotaract club of my college, which inspired me to co-found my very own startup, where we worked with startup event management firms to provide PR solutions. Post Covid, due to circumstances we had to shut it down, that's when I started learning web development and building websites from scratch. I guess it was a little around that time I [fell in love with the process of coding](https://medium.com/@reemshakes/how-i-fell-in-love-with-coding-cf07f4aa7176).
 
-My hobbies align towards creative writing, I've been writing for around 3-4 years now. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia where I worked as an influencer representing my college. 
+My hobbies align towards creative writing, I've been writing for around 3-4 years now. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia. 
 
+I've completed my BCA from Hinduja college and I'm currently pursuing my masters in computer applications & I'm open to full time work in the tech niche. 
+- 📫 How to reach me **business.reemshaikh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
