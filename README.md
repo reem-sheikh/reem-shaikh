@@ -13,7 +13,14 @@ I enjoy using creative outlets to express myself, and I have the flexibility to 
 I love indulging in community service and making new friends!
 During my undergrad, I've served as the PR director for the rotaract club of my college, which inspired me to co-found my very own startup, where we worked with startup event management firms to provide PR solutions. But due to Covid we had to shut it down, that's when I started learning web development and building websites from scratch. You can check my coding progress at [70daysofcode](https://github.com/reem-shaikh/70DaysOfCode). I would even document my journey at [Twitter](https://twitter.com/reemshakes) where I'm a part of a couple tech communities. I would mainly use this platform to network with other passionate coders. 
 
-I guess it was a little around that time I [fell in love with the process of coding](https://medium.com/@reemshakes/how-i-fell-in-love-with-coding-cf07f4aa7176).
+> Here is a list of some of my projects:
+- [Movie App](https://angry-villani-ca483a.netlify.app/)
+- [Pomodoro Timer](https://reem-shaikh.github.io/pomodorotimer-app/)
+- [ECommerce App](https://addtocartfunctionality.netlify.app/)
+- [Todo App](https://reem-shaikh.github.io/todoapp-react/)
+- [Recipe Finder App](https://jolly-dusk-104626.netlify.app/)
+- [Music App](https://roaring-mousse-84007a.netlify.app/)
+- [Blog App](https://singular-crumble-2cc32d.netlify.app/)
 
 My hobbies align towards creative writing, I've been writing for around 3-4 years now. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia. Since I was so passionate about soccer I ended up building a custom [soccer based management system](https://github.com/reem-shaikh/c-project) as a hobby project with file handling in CPP during my first year. 
 
