@@ -8,10 +8,10 @@ Besides being a crazy cat enthusiast, I spend most of my days making art. fine-a
 
 When I'm not arting, you'll find me slamming on my keyboard building websites and web apps, what can I say it's kind of like my guilty pleasure. I started my coding journey almost exactly a year ago and now I'm doing [freelance projects](https://elevateagency.netlify.app/) on the side for mutuals, helping out the tech community on [Quora](https://www.quora.com/profile/Ruby-2539) and posting regular tech tutorials on [medium](https://medium.com/@reemshakes). 
 
-I enjoy using creative outlets to express myself, and I have the flexibility to change my tone and style depending on the needs of the project. Being an empath and a phychology enthusiast, I'm able to deeply comprehend client's perspective and meet their needs. I love me a little challenge every now and then, it keeps me on my toes!
+I enjoy using creative outlets to express myself, and I have the flexibility to change my tone and style depending on the needs of the project. Being an empath and a phychology enthusiast, I'm able to deeply comprehend client's perspective and meet their needs. I love me a little challenge every now and then, it keeps me on my toes! 
 
 I love indulging in community service and making new friends!
-I've worked as the PR director for the rotaract club of my college, which inspired me to co-found my very own startup, where we worked with startup event management firms to provide PR solutions. 
+I've worked as the PR director for the rotaract club of my college, which inspired me to co-found my very own startup, where we worked with startup event management firms to provide PR solutions. Post Covid we had to shut it down, that's when I started learning web development through my bootcamp at Geekster and building websites from scratch. I guess it was a little around that time I [fell in love with the process of coding](https://medium.com/@reemshakes/how-i-fell-in-love-with-coding-cf07f4aa7176).
 
 My hobbies align towards creative writing, I've been writing for around 3-4 years now. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia where I worked as an influencer representing my college. 
 
