@@ -5,7 +5,7 @@
  -->
 ### About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: The [The Artsy Shop](https://www.behance.net/theartsyshop) and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal. I would take custom fine-art and digital art commissions during my undergrad, which I've now converted to a passive income source. 
+Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: [The Artsy Shop](https://www.behance.net/theartsyshop) and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal. I would take custom fine-art and digital art commissions during my undergrad, which I've now converted to a passive income source. 
 
 When I'm not arting, you'll find me slamming on my keyboard building websites and web apps, what can I say it's kind of like my guilty pleasure. I started my coding journey almost exactly a year ago and now I'm doing [freelance projects](https://elevateagency.netlify.app/) on the side for mutuals, helping out the tech community on [Quora](https://www.quora.com/profile/Ruby-2539) and posting regular tech tutorials on [medium](https://medium.com/@reemshakes). 
 
