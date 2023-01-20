@@ -4,13 +4,17 @@
 <p align="left"> <a href="https://twitter.com/reemshakes" target="blank"><img src="https://img.shields.io/twitter/follow/reemshakes?logo=twitter&style=for-the-badge" alt="reemshakes" /></a> </p>
 
 ### About me ❤️
-Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: The [The Artsy Shop](https://www.behance.net/theartsyshop) and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal.
+Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: The [The Artsy Shop](https://www.behance.net/theartsyshop) and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal. I would take custom fine-art and digital art commissions during my undergrad, which I've now converted to a passive income source. 
 
 When I'm not arting, you'll find me slamming on my keyboard building websites and web apps, what can I say it's kind of like my guilty pleasure. I started my coding journey almost exactly a year ago and now I'm doing [freelance projects](https://elevateagency.netlify.app/) on the side for mutuals, helping out the tech community on [Quora](https://www.quora.com/profile/Ruby-2539) and posting regular tech tutorials on [medium](https://medium.com/@reemshakes). 
 
-My hobbies align towards creative writing. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). 
+I enjoy using creative outlets to express myself, and I have the flexibility to change my tone and style depending on the needs of the project. Being an empath and a phychology enthusiast, I'm able to deeply comprehend client's perspective and meet their needs. I love me a little challenge every now and then, it keeps me on my toes!
 
-I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia where I worked as an influencer representing my college. 
+I love indulging in community service and making new friends!
+I've worked as the PR director for the rotaract club of my college, which inspired me to co-found my very own startup, where we worked with startup event management firms to provide PR solutions. 
+
+My hobbies align towards creative writing, I've been writing for around 3-4 years now. I run a [poetry blog](https://artsypoetress.netlify.app/), I also post my write-ups on [pinterest](https://in.pinterest.com/artsypoetresss/my-notepad-poems/) sometimes. I also released my very first contraversy on [wattpad](https://www.wattpad.com/user/itsrumbro). I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia where I worked as an influencer representing my college. 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
