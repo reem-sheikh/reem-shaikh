@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Reem Shaikh</h1>
 <h3 align="center">Artist, Coder, Writer</h3>
 
@@ -29,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reem-shaikh&show_icons=true&locale=en&layout=compact" alt="reem-shaikh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reem-shaikh&show_icons=true&locale=en" alt="reem-shaikh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reem-shaikh&" alt="reem-shaikh" /></p>
