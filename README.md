@@ -7,7 +7,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 Besides being a crazy cat enthusiast, I spend most of my days making art. fine-art, graphic design, digital art. I run a couple art stores: [The Artsy Shop](https://www.behance.net/theartsyshop) and [Crazy Ket Lady](https://www.behance.net/crazyketlady) which is a fundraising art initiative. You'll find my work on behance and Artpal. I would take custom fine-art and digital art commissions during my undergrad, which I've now converted to a passive income source. 
 
-When I'm not arting, you'll find me slamming on my keyboard building websites and web apps, what can I say it's kind of like my guilty pleasure. I enjoy using creative outlets to express myself, and I have the flexibility to change my tone and style depending on the needs of the project. Being an empath and a phychology enthusiast, I'm able to deeply comprehend client's perspective and meet their needs. I love me a little challenge every now and then, it keeps me on my toes! 
+When I'm not arting, you'll find me slamming on my keyboard building websites and web apps, what can I say it's kind of like my guilty pleasure. I enjoy using creative outlets to express myself, and I have the flexibility to change my tone and style depending on the needs of the project. Being A phychology enthusiast, I'm able to deeply comprehend client's perspective and meet their needs. I love me a little challenge every now and then, it keeps me on my toes! 
 
 You can check my coding progress at [70 Days Of Code](https://github.com/reem-shaikh/70DaysOfCode). 
 
