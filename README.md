@@ -9,8 +9,7 @@ Besides being a crazy cat enthusiast, I spend most of my days making art. fine-a
 
 When I'm not arting, you'll find me slamming on my keyboard building websites and web apps, what can I say it's kind of like my guilty pleasure. I enjoy using creative outlets to express myself, and I have the flexibility to change my tone and style depending on the needs of the project. Being an empath and a phychology enthusiast, I'm able to deeply comprehend client's perspective and meet their needs. I love me a little challenge every now and then, it keeps me on my toes! 
 
-I love indulging in community service and making new friends!
-During my undergrad, I've served as the PR director for the rotaract club of my college, which inspired me to co-found my very own startup, where we worked with startup event management firms to provide PR solutions. But due to Covid we had to shut it down, that's when I started learning web development and building websites from scratch. You can check my coding progress at [70 Days Of Code](https://github.com/reem-shaikh/70DaysOfCode). 
+You can check my coding progress at [70 Days Of Code](https://github.com/reem-shaikh/70DaysOfCode). 
 
 > Here is a list of some of my projects:
 - [Movie App](https://angry-villani-ca483a.netlify.app/) - React JS, material UI, axios, redux, omdb-api 
@@ -23,7 +22,7 @@ During my undergrad, I've served as the PR director for the rotaract club of my 
 My hobbies align towards creative writing, I've been writing for around 3-4 years now. I run a [poetry blog](https://artsypoetress.netlify.app/). I also love playing soccer, you'll find my [soccer inspired story](https://www.instagram.com/p/BxrP0kbDFMZ/) published @studentvillageindia. Since I was so passionate about soccer I ended up building a custom [soccer based management system](https://github.com/reem-shaikh/c-project) as a hobby project with file handling in CPP during my first year. 
 
 <br>
---- from 2022 signing off!
+--- Reem from 2022,
 <br>
-XO Reem <3
+ signing off!
 
