@@ -12,7 +12,7 @@ Here you can check my coding progress at [70 Days Of Code](https://github.com/re
 
 > Here is a list of some of my projects:
 - [Movie App](https://angry-villani-ca483a.netlify.app/) - React JS, material UI, axios, redux, omdb-api 
-- [Pomodoro Timer](https://reem-shaikh.github.io/pomodorotimer-app/) -  React JS, material UI, axios, redux, hooks
+- [Pomodoro Timer](https://reem-sheikh.github.io/pomodorotimer-app/) -  React JS, material UI, axios, redux, hooks
 - [ECommerce App](https://addtocartfunctionality.netlify.app/) - Redux, Axios, Routing, MUI, React-bootstrap
 - [Recipe Finder App](https://jolly-dusk-104626.netlify.app/) - Js, state management, API integration
 - [Filmstream App](https://roaring-mousse-84007a.netlify.app/) - Tailwind Css, Axios, redux
